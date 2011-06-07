@@ -29,7 +29,7 @@ TODO
 * Alexander Dreher (http://github.com/alexdreher)
 
 
-== Contributing to rack_ip_restrictor
+== Contributing to autocomplete-off
  
 * Check out the latest master to make sure the feature hasn't been implemented or the bug hasn't been fixed yet
 * Check out the issue tracker to make sure someone already hasn't requested it and/or contributed it
