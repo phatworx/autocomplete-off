@@ -21,7 +21,8 @@ Or if you want to use it as plugin
 It works right out of the box. Just install, restart your server and see it working.
 
 == Features
-TODO
+
+* Handle input tag with type text or password or email and add default autocomplete=off for default
 
 == Maintainers
 
