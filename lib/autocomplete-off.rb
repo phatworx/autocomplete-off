@@ -1,7 +1,6 @@
 require 'erb'
-require 'active_support/concern'
-require 'action_view/helpers/capture_helper'
-require 'action_view/helpers/tag_helper'
+require 'active_support'
+require 'action_view'
 
 module ActionView
   module Helpers
