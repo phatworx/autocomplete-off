@@ -5,11 +5,11 @@
 
 Gem::Specification.new do |s|
   s.name = %q{autocomplete-off}
-  s.version = "0.1.1"
+  s.version = "0.2.0"
 
   s.required_rubygems_version = Gem::Requirement.new(">= 0") if s.respond_to? :required_rubygems_version=
-  s.authors = ["Alexander Dreher"]
-  s.date = %q{2011-06-08}
+  s.authors = [%q{Alexander Dreher}]
+  s.date = %q{2011-09-28}
   s.description = %q{Adds `autocomplete="off"` html attribute to FormHelper generated input tags by default.}
   s.email = %q{alexdreher@lxmedia.net}
   s.extra_rdoc_files = [
@@ -31,9 +31,9 @@ Gem::Specification.new do |s|
     "spec/spec_helper.rb"
   ]
   s.homepage = %q{http://github.com/phatworx/autocomplete-off}
-  s.licenses = ["MIT"]
-  s.require_paths = ["lib"]
-  s.rubygems_version = %q{1.6.2}
+  s.licenses = [%q{MIT}]
+  s.require_paths = [%q{lib}]
+  s.rubygems_version = %q{1.8.6}
   s.summary = %q{Adds `autocomplete="off"` html attribute to FormHelper generated input tags by default.}
 
   if s.respond_to? :specification_version then
